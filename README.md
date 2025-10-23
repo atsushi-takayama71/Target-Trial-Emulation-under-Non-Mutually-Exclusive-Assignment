@@ -1,2 +1,7 @@
-# Target-Trial-Emulation-under-Non-Mutually-Exclusive-Assignment
-This repository contains simulation codes for the study “Target Trial Emulation under Non-Mutually Exclusive Assignment: Structural Pitfalls and Methodological Remedies.” It evaluates how overlapping treatment assignment structures bias marginal risk ratio estimates and examines methodological approaches to reduce such bias.
+# Target Trial Emulation under Non-Mutually Exclusive Assignment
+
+This repository contains R scripts used in the study  
+*“Target Trial Emulation under Non-Mutually Exclusive Assignment: Structural Pitfalls and Methodological Remedies.”*
+
+All codes are provided for transparency and reproducibility.  
+Simulated data only; no individual-level or sensitive data are included.
