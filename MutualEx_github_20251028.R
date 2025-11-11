@@ -666,7 +666,7 @@ size_bias_step1 <- run_size_bias_step1(
   n_sim = 200,
   trims = c(0.00, 0.01, 0.03)
 )
-# 表示・保存はお好みで：
+# For plotting/saving (optional):
 # print(plot_bias_vs_n_min(size_bias_step1, key_col="strategy",
 #                          facet_by = "type",
 #                          title_txt = "Step 1: Bias ± SD vs n (Scenario 1)"))
